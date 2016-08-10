@@ -1,3 +1,7 @@
 file1
 helloworld
+<<<<<<< HEAD
 123456789
+=======
+hello
+>>>>>>> 0f0dd3bab625f1bfdd4adf2d200577ff842c6f5a
